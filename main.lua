@@ -29,7 +29,7 @@ sound.Parent = button
 sound.Looped = true
 
 -- 👉 ВСТАВЬ СВОЙ ID МУЗЫКИ:
-sound.SoundId = "rbxassetid://YOUR_MUSIC_ID_HERE"
+sound.SoundId = "rbxassetid://18841898522"
 sound.Volume = 1
 
 local on = false
