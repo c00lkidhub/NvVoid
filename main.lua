@@ -19,7 +19,7 @@ button.ZIndex = 2
 local image = Instance.new("ImageLabel")
 image.Size = UDim2.new(1, 0, 1, 0)
 image.BackgroundTransparency = 1
-image.Image = "Toggle.Image = "124968083551523"
+image.Image = "rbxassetid://124968083551523"
 image.Parent = button
 image.ZIndex = 3
 
