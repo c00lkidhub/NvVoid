@@ -8,7 +8,7 @@ gui.Parent = player:WaitForChild("PlayerGui")
 gui.ResetOnSpawn = false
 
 local button = Instance.new("TextButton")
-button.Size = UDim2.new(0, 200, 0, 60)
+button.Size = UDim2.new(0, 50, 0, 50)
 button.Position = UDim2.new(0, 20, 0, 20)
 button.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
 button.Text = ""
