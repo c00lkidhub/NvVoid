@@ -5,7 +5,7 @@ local player = game.Players.LocalPlayer
 -- GUI контейнер (ВАЖНО)
 local gui = Instance.new("ScreenGui")
 gui.Parent = player:WaitForChild("PlayerGui")
-gui.ResetOnSpawn = false
+gui.ResetOnSpawn = true
 
 local button = Instance.new("TextButton")
 button.Size = UDim2.new(0, 200, 0, 60)
